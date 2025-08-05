@@ -40,7 +40,9 @@ this collection of Jupyter notebooks walks you through the essential workflows a
 using real-world datasets and clear, concise explanations. 
 Each notebook builds on the last, helping you learn pandas step by step—from loading and 
 inspecting data to cleaning, transforming, analyzing, and visualizing it. 
-Perfect for students, data enthusiasts, and professionals alike!
+Perfect for students, data enthusiasts, and professionals alike!  
+
+**Try it out by yourself on Kaggle with interactive notebooks for hands-on learning: [Pandas Handbook](https://www.kaggle.com/writeups/pymetheus/pandas-handbook)**
 
 ---
 
